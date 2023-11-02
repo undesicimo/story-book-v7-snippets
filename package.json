@@ -1,0 +1,22 @@
+{
+	"name": "story-book-v7-snippets",
+	"displayName": "Story Book V7 Snippet",
+	"author": "undesicimo",
+	"publisher": "josha0ngel03",
+	"description": "Boilerplate snippet for Story Book V7",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.84.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/snippets.code-snippets"
+			}
+		]
+	}
+}
